@@ -1,7 +1,6 @@
-# Novel Covid-19 Plugin ===
+# Novel Covid-19 Plugin
 Contributors: Sandeep Kadyan, Amit Shokeen
 Tags: covid-19, ncov, coronavirus, corona, virus, covid-19-Coronavirus 
-Donate link: Paypal: saicosys@gmail.com
 Requires at least: 4.4
 Tested up to: 5.4
 Requires PHP: 5.6
