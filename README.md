@@ -1,4 +1,4 @@
-# Novel Covid-19 Live statistics tracking WordPress Plugin
+# Novel Covid-19 Live Statistics Tracking WordPress Plugin
 * Contributors: Sandeep Kadyan, Amit Shokeen
 * Tags: covid-19, ncov, coronavirus, corona, virus, covid-19-Coronavirus 
 * Require WordPress version at least: 4.4
