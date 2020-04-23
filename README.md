@@ -1,11 +1,10 @@
 # Novel Covid-19 Plugin
-Contributors: Sandeep Kadyan, Amit Shokeen
-Tags: covid-19, ncov, coronavirus, corona, virus, covid-19-Coronavirus 
-Requires at least: 4.4
-Tested up to: 5.4
-Requires PHP: 5.6
-Stable tag: trunk
-License: GPL 
+* Contributors: Sandeep Kadyan, Amit Shokeen
+* Tags: covid-19, ncov, coronavirus, corona, virus, covid-19-Coronavirus 
+* Requires at least: 4.4
+* Tested up to: 5.4
+* Requires PHP: 5.6
+* License: GPL 
 
 ## Description
 Live statistics tracking the number of confirmed cases, recovered and deaths by country or global due to Novel COVID-19. 
