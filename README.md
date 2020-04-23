@@ -19,9 +19,17 @@ Live statistics tracking the number of confirmed cases, recovered and deaths by 
 * Optimized speed.
 * Mobile responsive style supported
 
-# Installation
+## Installation
 1. Upload the plugin files to the "/wp-content/plugins/novel-covid-19/" directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the "Plugins" screen in WordPress.
 
-# Changelog
+## Changelog
 * Initial Release. v1.0.0
+
+## Download
+```
+git clone https://github.com/saicosys/novel-covid19.git
+```
+
+## Donate
+Paypal : https://paypal.me/saicosys
